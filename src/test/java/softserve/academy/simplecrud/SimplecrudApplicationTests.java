@@ -6,6 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class SimplecrudApplicationTests {
 
+    //just testing if context loads
     @Test
     void contextLoads() {
     }
